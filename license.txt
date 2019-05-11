@@ -1,1 +1,2 @@
 wrote by yangchao
+fix bug
